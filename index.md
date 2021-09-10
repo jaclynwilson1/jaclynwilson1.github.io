@@ -5,12 +5,12 @@
 
 ## [Resume in PDF Format](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
 
-[My Projects](page1.md)
+## [My Projects](page1.md)
 
-## Courses:
-- compsci 1 & 2
-- calc 1, 2, 3
--
+## Volunteer/Service
+
+## Courses
+
 
 
 
