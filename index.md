@@ -7,11 +7,6 @@
 
 [My Projects](page1.md)
 
-## Projects
-1. [Duck! Duck!](https://github.com/jaclynwilson1/Duck-Duck)
-2. COVID
-3. Math Anxiety
-
 ## Courses:
 - compsci 1 & 2
 - calc 1, 2, 3
