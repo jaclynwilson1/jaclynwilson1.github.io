@@ -5,7 +5,7 @@
 
 ## [Resume](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
 
-[a relative link](about.md)
+[a relative link](page1.md)
 
 ## Projects
 1. [Duck! Duck!](https://github.com/jaclynwilson1/Duck-Duck)
