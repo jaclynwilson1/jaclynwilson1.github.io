@@ -7,6 +7,8 @@
 
 ## [My Projects](page1.md)
 
+## [Work Experience](page2.md)
+
 ## Volunteer/Service
 
 ## Courses
