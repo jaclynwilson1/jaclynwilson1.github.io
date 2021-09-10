@@ -5,6 +5,9 @@
 
 ## [Resume](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
 
+<a href="#-">`^`</a> - (click to go to first anchor of this comment)
+
+# Header without an anchor link
 
 ## Projects
 1. [Duck! Duck!](https://github.com/jaclynwilson1/Duck-Duck)
