@@ -8,18 +8,16 @@
 
 ## Projects
 1. [Duck! Duck!](https://github.com/jaclynwilson1/Duck-Duck)
+2. COVID
+3. Math Anxiety
+
+## Courses:
+- compsci 1 & 2
+- calc 1, 2, 3
 
 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 **Bold** and _Italic_ and `Code` text
 
