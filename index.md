@@ -3,9 +3,9 @@
 
 ### Senior at Tulane University majoring in Mathematics with a coordinate major in Computer Science with a minor in management. My expected graduation is May 2022.
 
-## [Resume](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
+## [Resume in PDF Format](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
 
-[a relative link](page1.md)
+[My Projects](page1.md)
 
 ## Projects
 1. [Duck! Duck!](https://github.com/jaclynwilson1/Duck-Duck)
