@@ -9,9 +9,11 @@
 
 ## [Work Experience](page2.md)
 
-## Volunteer/Service
+## [Involvement/Service](volunteer.md)
 
-## Courses
+## [Education](education.md)
+
+## [Skills](skills.md)
 
 
 
