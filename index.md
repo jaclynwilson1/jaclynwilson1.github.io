@@ -18,11 +18,3 @@
 
 ## [Resume](https://github.com/jaclynwilson1/jaclynwilson1.github.io/blob/main/Jaclyn%20Wilson%20Resume.pdf)
 
-
-
-```markdown
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
